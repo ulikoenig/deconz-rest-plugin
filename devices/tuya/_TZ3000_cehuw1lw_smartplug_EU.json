@@ -1,8 +1,8 @@
 {
     "schema": "devcap1.schema.json",
-    "manufacturername": "_TZ3000_cehuw1lw",
+    "manufacturername":  ["_TZ3000_cehuw1lw", "_TZ3000_0zfrhq4i"],
     "modelid": "TS011F",
-    "product": "Random tuya plug",
+    "product": "WHDZ01 Tuya Plug with Power Monitor",
     "sleeper": false,
     "status": "Gold",
     "subdevices": [
